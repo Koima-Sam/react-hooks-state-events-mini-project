@@ -1,4 +1,3 @@
-import { reporters } from "mocha";
 import React from "react";
 
 function CategoryFilter({categories, onSelectCategory,  selectCategory}) {
